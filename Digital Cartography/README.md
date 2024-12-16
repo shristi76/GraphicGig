@@ -16,7 +16,7 @@ In this task you have to design a complete map illustration, showing different b
 ## **Submission Guideline:**
 
 - Submit the .txt file containing the link of your Figma file.
-- Make sure to submit the file under the Folder named *"Map Creation"*
+- Make sure to submit the file under the Folder named *"Digital Cartography"*
 
 > This task is of 30 points 🏆
 > 
