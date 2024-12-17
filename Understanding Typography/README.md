@@ -26,7 +26,7 @@ If you are unclear with how to start, you can check out the resources provided o
 1. Skim through the given text ( **in typography.txt file** ) once and define the **Hierarchy** i.e., mark Headings/ Sub-headings/ Important points.
 2. Decide the Font/ Type-face you would be using according to the context of the text. You can do font-pairing i.e., use different font for Headings/ Sub-headings but, don't loose the **Consistency**.
 3. Check for margins and spacings. The proper use of white space ensures an excellent user experience and a great readability experience. It helps to balance design elements and better organize content to improve the visual communication experience.
-4. For Submission you would have to submit the link to the doc file or Figma file in a .txt file into the **"Typography Task"** folder only.
+4. For Submission you would have to submit the link to the doc file or Figma file in a .txt file into the **"Understanding Typography"** folder only.
 
 ## **MDC (Minimum Design Criteria):**
 
