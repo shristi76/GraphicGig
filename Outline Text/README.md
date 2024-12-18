@@ -4,7 +4,7 @@
 
 **NO SUBMISSION WILL BE ACCEPTED AFTER 19th December 11:59 PM**
 
-In this task you have to create an illustration with an outline effect in text. Choice of object for illustration is yours.
+In this task you have to create an illustration with an outline effect in text alike in reference video. Choice of object for illustration is yours.
 
 > 💡 This task should be done in Figma.
 > 
