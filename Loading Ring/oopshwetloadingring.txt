@@ -1,0 +1,3 @@
+Figma Link : "https://www.figma.com/design/pZfUMcQHdopKj6p12lR9Nn/Loading-Ring?node-id=0-1&m=dev&t=ufGmVumZjtrovsmK-1"
+
+Prototype : "https://www.figma.com/proto/pZfUMcQHdopKj6p12lR9Nn/Loading-Ring?node-id=0-1&t=ufGmVumZjtrovsmK-1"
