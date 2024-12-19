@@ -1,4 +1,4 @@
-design : https://www.figma.com/design/tjzzjgNyNjFKayEn6mwPvh/Untitled?node-id=0-1&t=JZL4VEekhkntrjJ5-1
+design link : https://www.figma.com/design/tjzzjgNyNjFKayEn6mwPvh/Untitled?node-id=0-1&t=JZL4VEekhkntrjJ5-1
 
-prototype : https://www.figma.com/proto/tjzzjgNyNjFKayEn6mwPvh/Untitled?node-id=0-1&t=JZL4VEekhkntrjJ5-1
+prototype link : https://www.figma.com/proto/tjzzjgNyNjFKayEn6mwPvh/Untitled?node-id=0-1&t=JZL4VEekhkntrjJ5-1
 
