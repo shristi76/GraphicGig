@@ -20,6 +20,7 @@ For Parallax Effect:
 ## **Submission Guideline:**
 
 - Submit the .txt file containing the link of your Figma file  of both Design & Prototype.
+- Use your GITHUB username as .txt file name.
 - Make sure to submit the file under the Folder named *"Parallax Effect"*
 
 > This task is of 5**0 points** 🏆🏆🏆🏆🏆
