@@ -1,0 +1,3 @@
+Figma: https://www.figma.com/design/LxeM5J8GEs0RZdMQudy3nV/Parallax-Effect?node-id=19-108&t=He5wKHodtSLKN1uJ-1
+
+Prototype: https://www.figma.com/proto/LxeM5J8GEs0RZdMQudy3nV/Parallax-Effect?page-id=19%3A108&node-id=19-423&p=f&viewport=715%2C951%2C0.68&t=hN7Gb7Wx4Q6K5Zdq-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=19%3A423
