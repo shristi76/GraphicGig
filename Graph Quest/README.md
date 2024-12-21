@@ -4,7 +4,7 @@
 
 **NO SUBMISSION WILL BE ACCEPTED AFTER 21st December 11:59 PM**
 
-In this task you have to create an illustration of line graph along with some unique creativity from your side . 💫
+In this task you have to create an illustration of detailed line graph along with some unique creativity from your side . 💫
 
 > 💡 This task should be done in Figma.
 > 
