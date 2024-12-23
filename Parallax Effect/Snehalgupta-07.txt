@@ -1,2 +1,4 @@
-design: https://www.figma.com/design/IlHM6wYP6OjlbDGMEJubHt/ID-Card?node-id=26-11&t=CGFJ7dMQLJqqjgo4-1
-prototype: https://www.figma.com/proto/IlHM6wYP6OjlbDGMEJubHt/ID-Card?node-id=26-11&t=CGFJ7dMQLJqqjgo4-1
+design: https://www.figma.com/design/IlHM6wYP6OjlbDGMEJubHt/ID-Card?node-id=0-1&t=CGFJ7dMQLJqqjgo4-1
+
+
+prototype: https://www.figma.com/proto/IlHM6wYP6OjlbDGMEJubHt/ID-Card?node-id=0-1&t=5vAr4OSwzddjeVj3-1
