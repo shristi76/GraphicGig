@@ -1,0 +1,2 @@
+Design: https://www.figma.com/design/TiKbAmfAKvn2dmtsZujUsb/Business-Card?node-id=0-1&t=I4FBb9g8VUw0WqGy-1
+Prototype: https://www.figma.com/proto/TiKbAmfAKvn2dmtsZujUsb/Business-Card?node-id=2-7&p=f&t=I4FBb9g8VUw0WqGy-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A7
