@@ -1,0 +1,4 @@
+design: https://www.figma.com/design/IlHM6wYP6OjlbDGMEJubHt/ID-Card?node-id=0-1&t=RvNnxCmVus5DmQNm-1
+
+
+prototype: https://www.figma.com/proto/IlHM6wYP6OjlbDGMEJubHt/ID-Card?node-id=82-23&t=OlyeRG4A9MELpLoW-1
