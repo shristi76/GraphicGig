@@ -4,7 +4,7 @@
 
 ⌛ **NO SUBMISSION WILL BE ACCEPTED AFTER 28th December 11:59 PM**
 
-🔎 Points: 
+🔎 Points: 20
 
 ## Task:
 
