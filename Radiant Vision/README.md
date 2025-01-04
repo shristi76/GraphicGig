@@ -2,9 +2,9 @@
 
 📢 **No need to claim this issue – it’s your time to shine!**
 
-⌛ **Deadline Alert:** Submit before **29th December, 11:59 PM** 🕰️
+⌛ **Deadline Alert:** Submit before 5**th January, 11:59 AM** 🕰️
 
-🏆 **Points to Earn:** 10 🌟
+🏆 **Points to Earn:** 20 🌟
 
 ## **🌟 Your Creative Task:**
 
